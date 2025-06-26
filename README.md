@@ -284,9 +284,3 @@ This software is intended for research and educational purposes. It should not b
 ![GitHub watchers](https://img.shields.io/github/watchers/hospital-ai/readmission-prediction?style=social)
 ![GitHub issues](https://img.shields.io/github/issues/hospital-ai/readmission-prediction)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/hospital-ai/readmission-prediction)
-
-## 🔗 Related Projects
-
-- [Clinical-ML-Toolkit](https://github.com/hospital-ai/clinical-ml-toolkit): General-purpose ML tools for healthcare
-- [HIPAA-Compliance-Utils](https://github.com/hospital-ai/hipaa-compliance-utils): HIPAA compliance utilities
-- [Healthcare-Data-Pipeline](https://github.com/hospital-ai/healthcare-data-pipeline): ETL tools for healthcare data
